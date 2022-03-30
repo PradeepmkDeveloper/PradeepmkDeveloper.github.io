@@ -1,0 +1,49 @@
+
+.name {
+    background-color: #139fe0;
+    width: 100%;           
+    color: rgb(3, 3, 3);
+
+}
+
+.skills {
+    background-color: cornsilk;
+    width: 100%;
+
+}
+
+.hobby {
+    background-color: lightgray;
+    width: 100%;
+    font-size: 25px;
+
+}
+
+.map {
+    background-color: lightblue;
+    width: 100%;
+    font-size: 25px
+}
+
+#id {
+
+    font-size: 30px;
+   
+    text-align: center left;
+
+}
+
+.second {
+    background-color: rgb(128, 204, 240);
+}
+
+.footer {
+    position: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    padding: 0%;
+}
